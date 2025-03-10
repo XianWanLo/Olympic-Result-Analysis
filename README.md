@@ -1,8 +1,8 @@
 # Olympic Result Analysis
 
-![Dashboard](dashboard-image.png)  
-
 This is a Shiny web application that provides an interactive dashboard to analyze Olympic data from 1896 to 2016. The app allows users to explore medal counts, athlete statistics, and trends across different sports, regions, and years.
+
+![Dashboard](dashboard-image.png)  
 
 ## Features
 
