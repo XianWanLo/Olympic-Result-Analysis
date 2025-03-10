@@ -1,0 +1,1 @@
+The interactive data visualization interface I designed is an Olympics data analysis page based on the dataset “120 years of Olympic history: athletes and results” on Kaggle. The interface includes a main dashboard, and 2 following pages displaying athlete data and Olympic results by sport/athlete. 
