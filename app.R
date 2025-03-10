@@ -21,8 +21,8 @@ library(rnaturalearthdata)
 library(shinydashboard)
 
 # Load data from the dataset
-athlete_df <- read.csv("athlete_events.csv")
-noc_df <- read.csv("noc_regions.csv")
+athlete_df <- read.csv("data/athlete_events.csv")
+noc_df <- read.csv("data/noc_regions.csv")
 olympics_df <- merge(athlete_df, noc_df, by = "NOC", all.x = TRUE)
 
 # Load country coordinates
